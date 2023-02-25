@@ -18,10 +18,11 @@ module.exports = {
       },
       backgroundImage: (theme) => ({
         'gradient-rainbow':
-          "linear-gradient(81.66deg, #00B5EE 7.21%, #FF45A4 45.05%, #FFBA00 78.07%",
+          "linear-gradient(81.66deg, #00B5EE 7.21%, #ae77af 45.05%, #FDCC49 78.07%)",
         'gradient-rainblue':
-          "linear-gradient(90deg, #24CBFF 14.53%, #FC59FF 69.36%, #FFBD0C 117.73%",
+          "linear-gradient(90deg, #2CBCE9 14.53%, #ae77af 69.36%, #FDCC49 117.73%)",
       }),
+
       fontFamily : {
         playfair : ['Playfair Display', 'serif'],
         opensans : ['Open Sans', 'sans-serif'],
@@ -38,6 +39,7 @@ module.exports = {
       xs : '480px',
       sm : '768px',
       md : '1060px',
+      lg : '1650px',
     }
   },
   plugins: [],
