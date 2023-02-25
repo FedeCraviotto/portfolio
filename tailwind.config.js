@@ -7,12 +7,14 @@ module.exports = {
     extend: {
       colors: {
         blue : '#2CBCE9',
-        red: '#DC4492',
+        red: '#B7245C',
         yellow: '#FDCC49',
-        grey: '#EDEDED',
-        'deep-blue': '#010026',
+        grey: '#E8E8E8',
+        violet: '#8A4FFF',
+        'deep-blue': '#031927',
         'dark-grey': '#757575',
-        'opaque-black': 'rgba(0, 0, 0, 0.35'
+        'opaque-black': 'rgba(0, 0, 0, 0.35)',
+
       },
       backgroundImage: (theme) => ({
         'gradient-rainbow':
