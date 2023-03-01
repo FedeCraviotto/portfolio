@@ -6,6 +6,8 @@ import Skills from './scenes/Skills';
 import Projects from './scenes/Projects';
 import DotGroup from './components/DotGroup';
 import LineGradient from './components/LineGradient';
+import Contact from "./scenes/Contact";
+import Footer from "./scenes/Footer";
 
 
 function App() {
@@ -47,6 +49,11 @@ function App() {
       <div className="w-5/6 mx-auto">
         <Projects />
       </div>
+      <LineGradient />
+      <div className="w-5/6 mx-auto md:h-full">
+        <Contact />
+      </div>
+      <Footer />
     </div>
   )
    

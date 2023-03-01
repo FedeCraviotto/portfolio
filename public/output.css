@@ -655,6 +655,11 @@ video {
   margin-bottom: 2.5rem;
 }
 
+.my-5{
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
 .mb-10{
   margin-bottom: 2.5rem;
 }
@@ -673,6 +678,10 @@ video {
 
 .ml-\[33\%\]{
   margin-left: 33%;
+}
+
+.mt-1{
+  margin-top: 0.25rem;
 }
 
 .mt-10{
@@ -731,6 +740,10 @@ video {
   height: 100%;
 }
 
+.h-64{
+  height: 16rem;
+}
+
 .max-h-\[400ox\]{
   max-height: 400ox;
 }
@@ -741,6 +754,10 @@ video {
 
 .w-1\/3{
   width: 33.333333%;
+}
+
+.w-2\/4{
+  width: 50%;
 }
 
 .w-3{
@@ -761,6 +778,10 @@ video {
 
 .max-w-\[400px\]{
   max-width: 400px;
+}
+
+.basis-1\/2{
+  flex-basis: 50%;
 }
 
 .basis-2\/5{
@@ -882,6 +903,14 @@ video {
   padding: 0.5rem;
 }
 
+.p-3{
+  padding: 0.75rem;
+}
+
+.p-5{
+  padding: 1.25rem;
+}
+
 .px-10{
   padding-left: 2.5rem;
   padding-right: 2.5rem;
@@ -910,6 +939,11 @@ video {
 .py-3{
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.py-48{
+  padding-top: 12rem;
+  padding-bottom: 12rem;
 }
 
 .py-6{
@@ -1004,6 +1038,14 @@ video {
 .text-yellow{
   --tw-text-opacity: 1;
   color: rgb(253 204 73 / var(--tw-text-opacity));
+}
+
+.placeholder-opaque-black::-webkit-input-placeholder{
+  color: rgba(0, 0, 0, 0.35);
+}
+
+.placeholder-opaque-black::placeholder{
+  color: rgba(0, 0, 0, 0.35);
 }
 
 .opacity-0{
@@ -1195,6 +1237,11 @@ body,
   background-color: rgb(44 188 233 / var(--tw-bg-opacity));
 }
 
+.hover\:bg-red:hover{
+  --tw-bg-opacity: 1;
+  background-color: rgb(183 36 92 / var(--tw-bg-opacity));
+}
+
 .hover\:text-red:hover{
   --tw-text-opacity: 1;
   color: rgb(183 36 92 / var(--tw-text-opacity));
@@ -1305,6 +1352,10 @@ body,
 
   .md\:justify-start{
     justify-content: flex-start;
+  }
+
+  .md\:justify-end{
+    justify-content: flex-end;
   }
 
   .md\:justify-between{
