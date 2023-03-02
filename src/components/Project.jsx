@@ -10,13 +10,13 @@ function Project({ title, description }){
     };
 
     return(
-        <motion.div variants={projectVariant} className='relative'>
+        <motion.div variants={projectVariant} className='relative h-[400px]'>
             <div className={overlayStyles}>
                 <p className="text-2xl font-playfair">{title}</p>
                 <p className="mt-7">{description}</p>
             </div>
             {/* <img src={projectDummyPic} alt={projectTitle} /> */}
-            <img src={`/images/${projectTitle}.jpg`} alt={projectTitle} />
+            <img src={`/images/project-${projectTitle}.jpg`} alt={projectTitle} />
         </motion.div>
     )
 };

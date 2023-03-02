@@ -736,12 +736,16 @@ video {
   height: 8rem;
 }
 
+.h-64{
+  height: 16rem;
+}
+
 .h-full{
   height: 100%;
 }
 
-.h-64{
-  height: 16rem;
+.h-\[400px\]{
+  height: 400px;
 }
 
 .max-h-\[400ox\]{
@@ -756,10 +760,6 @@ video {
   width: 33.333333%;
 }
 
-.w-2\/4{
-  width: 50%;
-}
-
 .w-3{
   width: 0.75rem;
 }
@@ -770,6 +770,10 @@ video {
 
 .w-\[300px\]{
   width: 300px;
+}
+
+.w-\[400px\]{
+  width: 400px;
 }
 
 .w-full{

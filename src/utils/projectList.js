@@ -1,10 +1,10 @@
 export const projectList = [
     {
-        title:'Project 1',
-        description:'Analytics Dashboard - React',
+        title:'Nueva Era',
+        description:'Ecommerce - Express/EJS',
     },
     {
-        title:'Project 2',
+        title:'Portfolio',
         description:'Social Network - React/Node',
     },
     {
@@ -25,7 +25,7 @@ export const projectList = [
     },
     {
         title:'Project 7',
-        description:'Ecommerce - Express/EJS',
+        description:'Analytics Dashboard - React',
     },
     {
         title:'Project 8',
