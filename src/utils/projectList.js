@@ -4,43 +4,40 @@ export const projectList = [
         description:'Ecommerce - Express/EJS',
     },
     {
-        title:'Portfolio',
-        description:'Social Network - React/Node',
+        title:'Social Network',
+        description:'React - Node - SASS ',
     },
     {
-        title:'Project 3',
-        description:'Estate Agency - React/Django',
+        title:'YouTube Clone',
+        description:'React - Node - SASS ',
     },
     {
-        title:'Project 4',
-        description:'Ecommerce - React/Django Braintree',
+        title:'Clothes Store',
+        description:'React - Strapi',
     },
     {
-        title:'Project 5',
-        description:'Ecommerce - React/Node Strapi',
+        title:'OVM Music Store',
+        description:'HTML - SASS - Js',
     },
     {
-        title:'Project 6',
-        description:'YouTube Clone - React/Node',
+        title:'JM Photography',
+        description:'HTML/CSS/Javascript',
     },
     {
-        title:'Project 7',
-        description:'Analytics Dashboard - React',
+        title:'Artwork Gallery',
+        description:'CSS - Python - Flask',
     },
     {
-        title:'Project 8',
-        description:'Photographer Portfolio - HTML/CSS/Javascript',
+        title:'RoutinApp',
+        description:'Javascript',
     },
     {
-        title:'Project 9',
-        description:'Artwork Gallery - Flask CRUD',
+        title:'Showtech',
+        description:'React - Django - BT/Paypal',
     },
     {
-        title:'Project 10',
-        description:'RountinApp - Javascript',
+        title:'Open House',
+        description:'React - Django - SASS',
     },
-    {
-        title:'Project 11',
-        description:'Role Game - Javascript CANVAS',
-    },
+
 ]
