@@ -33,8 +33,7 @@ function Projects() {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Something nice Something nice Something nice Something nice Something
-          nice Something nice Something nice
+          Design & functionality. Full dedication on every project
         </p>
       </motion.div>
 
