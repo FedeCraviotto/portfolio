@@ -52,13 +52,13 @@ function Skills() {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Tenacity
+                Teamwork
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Coping with difficult tasks every day, I work persistently through the different challenges in order to maintain my work ethic. I am committed to learning and growing as a professional, keeping up with the evolution of technology.
+          Teamwork as a culture that eases the way in which teams overcome obstacles and enjoy the creative process.
           </p>
         </motion.div>
 
@@ -77,13 +77,13 @@ function Skills() {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Project Management
+                Creativity
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            I can manage multiple projects going on at the same time, taking an active role depending according to my responsibilities, dealing with specific goals and working through project setbacks with coworkers.
+            Capitalizing on every problem by turning it into a fresh, innovative solution.            
           </p>
         </motion.div>
 
@@ -108,7 +108,7 @@ function Skills() {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          Active listening and feedback. Effective communication with supervisors and colleagues to help them with technical issues and work as part of a developing team. Written and fluent verbal English.
+          I believe in a culture of openness and mutual trust. Active listening and feedback.
           </p>
         </motion.div>
       </div>
