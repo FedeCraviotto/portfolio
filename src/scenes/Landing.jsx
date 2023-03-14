@@ -51,8 +51,7 @@ function Landing({ setSelectedPage }) {
             </span>
           </p>
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet
-            necessitatibus delectus, obcaecati ea quo
+          Creative web design based in beautiful and original websites for new companies
           </p>
         </motion.div>
 

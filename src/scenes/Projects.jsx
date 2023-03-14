@@ -33,14 +33,13 @@ function Projects() {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Something nice Something nice Something nice Something nice Something
-          nice Something nice Something nice
+          Design & functionality. Full dedication on every project
         </p>
       </motion.div>
 
       <div className="flex justify-center">
         <motion.div
-          className="sm:grid sm:grid-cols-3"
+          className="md:grid md:grid-cols-3"
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, amount: 0.5 }}
